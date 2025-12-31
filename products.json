@@ -1,0 +1,98 @@
+[
+  {
+    "name": "iPhone 15 Pro Max",
+    "desc": "256GB, Titanium Blue, A17 Pro Chip.",
+    "price": "1,48,900",
+    "img": "https://m.media-amazon.com/images/I/81fxjeu8fdL._SL1500_.jpg"
+  },
+  {
+    "name": "Samsung S24 Ultra",
+    "desc": "12GB RAM, 512GB, Titanium Gray with AI.",
+    "price": "1,29,999",
+    "img": "https://m.media-amazon.com/images/I/71RzaY6929L._SL1500_.jpg"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "desc": "128GB, Bay Color, Best Android Camera.",
+    "price": "1,06,999",
+    "img": "https://m.media-amazon.com/images/I/716n8498SXL._SL1500_.jpg"
+  },
+  {
+    "name": "OnePlus 12",
+    "desc": "16GB RAM, 512GB, Silky Black, 100W Charging.",
+    "price": "64,999",
+    "img": "https://m.media-amazon.com/images/I/71X8scfS8AL._SL1500_.jpg"
+  },
+  {
+    "name": "MacBook Air M3",
+    "desc": "13-inch, 8GB RAM, 256GB SSD, Midnight.",
+    "price": "1,14,900",
+    "img": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SL1500_.jpg"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "desc": "Industry Leading Noise Cancelling Headphones.",
+    "price": "29,990",
+    "img": "https://m.media-amazon.com/images/I/51f98I06R7L._SL1500_.jpg"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "desc": "GPS, 45mm Starlight Aluminium Case.",
+    "price": "41,900",
+    "img": "https://m.media-amazon.com/images/I/71XvH7E898L._SL1500_.jpg"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "desc": "Slim Edition, 1TB SSD, 4K Gaming.",
+    "price": "54,990",
+    "img": "https://m.media-amazon.com/images/I/510uTHyDqGL._SL1500_.jpg"
+  },
+  {
+    "name": "iPad Air M2",
+    "desc": "11-inch, Wi-Fi, 128GB, Space Grey.",
+    "price": "59,900",
+    "img": "https://m.media-amazon.com/images/I/61NfN2-mi7L._SL1500_.jpg"
+  },
+  {
+    "name": "Canon EOS R100",
+    "desc": "Mirrorless Camera with 18-45mm Lens Kit.",
+    "price": "44,990",
+    "img": "https://m.media-amazon.com/images/I/61v4qO8D6sL._SL1500_.jpg"
+  },
+  {
+    "name": "ROG Zephyrus G14",
+    "desc": "Ryzen 9, RTX 4060, 16GB RAM Gaming Laptop.",
+    "price": "1,49,990",
+    "img": "https://m.media-amazon.com/images/I/71mXf4YfT+L._SL1500_.jpg"
+  },
+  {
+    "name": "Marshall Emberton II",
+    "desc": "Portable Bluetooth Speaker, Black & Brass.",
+    "price": "14,999",
+    "img": "https://m.media-amazon.com/images/I/718tSgS8z6L._SL1500_.jpg"
+  },
+  {
+    "name": "Dyson V15 Detect",
+    "desc": "Cordless Vacuum Cleaner with Laser Tech.",
+    "price": "65,900",
+    "img": "https://m.media-amazon.com/images/I/41-q0-K8k6L.jpg"
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "desc": "16GB, 6.8-inch display, Adjustable Warm Light.",
+    "price": "13,999",
+    "img": "https://m.media-amazon.com/images/I/71X8X8-G-iL._SL1500_.jpg"
+  },
+  {
+    "name": "GoPro HERO12 Black",
+    "desc": "5.3K60 Video, HDR, Waterproof Action Cam.",
+    "price": "37,990",
+    "img": "https://m.media-amazon.com/images/I/51YJcl8pS1L._SL1500_.jpg"
+  },
+  {
+    "name": "Nike Air Jordan 1",
+    "desc": "Retro High OG, Chicago Colorway, Premium.",
+    "price": "16,995",
+    "img": "https://m.media-amazon.com/images/I/61mIuYJvj3L._SL1500_.jpg"
+  }
+    ]
